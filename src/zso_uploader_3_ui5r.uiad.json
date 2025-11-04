@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "ZSDMSOUPLOAD",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "ZSDMSOUPLOAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zsalesorderuploader"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_93D6281520588ED58D9F7A31A0B0620BE6972CAD_TM",
+    "semanticObject": "ZSO_UPLOADER_3",
+    "action": "ModulePool",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_93D6281520588ED58D9F7A31A0B0620BE6972CAD_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "ZSDMSOUPLOAD",
+        "subtitle": "Sales Order Uploader"
+      }
+    }
+  ]
+}
